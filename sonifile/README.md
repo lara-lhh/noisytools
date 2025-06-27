@@ -9,6 +9,7 @@ python audioflux.py archivo
 ```
 La visualización en la terminal será la siguiente:
 ![Visualización en la terminal:](docs/ruido.png)
+
 2. Modo espectro: reproducción y visualización de espectro FFT animado tipo ecualizador ASCII por bloques (añadiendo el argumento: `-s` )
 ```python
 python audioflux.py archivo -s  
